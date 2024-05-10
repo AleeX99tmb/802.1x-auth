@@ -1,0 +1,22 @@
+# Phase 1 users
+"alex" PEAP
+
+# Phase 2
+"alex" MSCHAPV2 "123" [2]
+
+# Phase 1 users
+"alver" PEAP
+
+# Phase 2
+"alver" MSCHAPV2 "alver" [2]
+
+# Phase 1 users
+"pepe" PEAP
+
+# Phase 2
+"pepe" MSCHAPV2 "villuela"
+# Phase 1 users
+"alex" PEAP
+
+# Phase 2
+"alex" MSCHAPV2 "Password1234"[2]
