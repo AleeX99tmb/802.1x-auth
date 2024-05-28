@@ -6,7 +6,7 @@ eap-ttls si
 pap no
 chap no
 mschap si
-eap-fast no
+fast no
 sim no
 wpa2 si
 wpa3 si
