@@ -13,7 +13,7 @@ wpa3 si
 gtc no
 aka no
 mac si
-psk no
+psk si
 pax no
 tnc no
 gpsk no
